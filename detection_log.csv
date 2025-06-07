@@ -1,0 +1,6 @@
+timestamp,ssim_score,verdict,tampered_regions
+2025-06-07 16:42:01,0.293,Tampering Detected in 1 region(s)!,1
+2025-06-07 16:42:50,1.0,No Tampering Detected.,0
+2025-06-07 16:58:24,0.293,Tampering Detected in 1 region(s)!,1
+2025-06-07 17:01:09,0.293,Tampering Detected in 1 region(s)!,1
+2025-06-07 17:03:00,1.0,No Tampering Detected.,0

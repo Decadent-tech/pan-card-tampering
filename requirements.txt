@@ -1,0 +1,6 @@
+gradio
+Flask
+opencv-python
+imutils
+scikit-image
+numpy
